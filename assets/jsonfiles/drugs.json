@@ -1,0 +1,142 @@
+[
+  {
+    "name": "metronidazole",
+    "multiply": 1.4,
+    "divide": 3,
+    "type": "weight",
+    "info": "Every 8 hours for 7 to 10 days"
+  },
+  {
+    "name": "penicillin V",
+    "multiply": 0.7,
+    "divide": 4,
+    "type": "weight",
+    "info": "Every 6 hours for 5 to 10 days"
+  },
+  {
+    "name": "amoxicillin 125",
+    "multiply": 2.8,
+    "divide": 3,
+    "type": "weight",
+    "info": "Every 8 hours for 10 to 14 days"
+  },
+  {
+    "name": "amoxicillin 250",
+    "multiply": 1.4,
+    "divide": 3,
+    "type": "weight",
+    "info": "Every 8 hours for 10 to 14 days"
+  },
+  {
+    "name": "amoxicillin 200",
+    "multiply": 1.75,
+    "divide": 2,
+    "type": "weight",
+    "info": "Every 12 hours for 10 to 14 days"
+  },
+  {
+    "name": "amoxicillin 400",
+    "multiply": 0.875,
+    "divide": 2,
+    "type": "weight",
+    "info": "Every 12 hours for 10 to 14 days"
+  },
+  {
+    "name": "azithromycin 100",
+    "multiply": 0.25,
+    "divide": 1,
+    "type": "weight",
+    "info": "On the first day, twice of the calculated amount, then the calculated amount until the fifth day"
+  },
+  {
+    "name": "azithromycin 200",
+    "multiply": 0.125,
+    "divide": 1,
+    "type": "weight",
+    "info": "On the first day, twice of the calculated amount, then the calculated amount until the fifth day"
+  },
+  {
+    "name": "cefixime",
+    "multiply": 0.4,
+    "divide": 2,
+    "type": "weight",
+    "info": "Every 12 hours for 5 to 7 days"
+  },
+  {
+    "name": "cephalexin 125",
+    "multiply": 1.6,
+    "divide": 4,
+    "type": "weight",
+    "info": "Every 6 hours for 7 to 14 days"
+  },
+  {
+    "name": "cephalexin 250",
+    "multiply": 0.8,
+    "divide": 4,
+    "type": "weight",
+    "info": "Every 6 hours for 7 to 14 days"
+  },
+  {
+    "name": "clarithromycin 125",
+    "multiply": 0.6,
+    "divide": 2,
+    "type": "weight",
+    "info": "Every 12 hours for 7 to 14 days"
+  },
+  {
+    "name": "clarithromycin 250",
+    "multiply": 0.3,
+    "divide": 2,
+    "type": "weight",
+    "info": "Every 12 hours for 7 to 14 days"
+  },
+  {
+    "name": "co- amoxiclave 156",
+    "multiply": 1.2,
+    "divide": 3,
+    "type": "weight",
+    "info": "Every 8 hours for 5 to 14 days"
+  },
+  {
+    "name": "co- amoxiclave 312",
+    "multiply": 0.6,
+    "divide": 3,
+    "type": "weight",
+    "info": "Every 8 hours for 5 to 14 days"
+  },
+  {
+    "name": "co- amoxiclave 228",
+    "multiply": 0.75,
+    "divide": 2,
+    "type": "weight",
+    "info": "Every 12 hours for 5 to 14 days"
+  },
+  {
+    "name": "co- amoxiclave 457",
+    "multiply": 0.375,
+    "divide": 2,
+    "type": "weight",
+    "info": "Every 12 hours for 5 to 14 days"
+  },
+  {
+    "name": "co- amoxiclave 643",
+    "multiply": 0.25,
+    "divide": 2,
+    "type": "weight",
+    "info": "Every 12 hours for 5 to 14 days"
+  },
+  {
+    "name": "co- trimoxazole",
+    "multiply": 1.125,
+    "divide": 2,
+    "type": "weight",
+    "info": "Every 12 hours for 3 to 7 days"
+  },
+  {
+    "name": "erythromycin",
+    "multiply": 1.25,
+    "divide": 4,
+    "type": "weight",
+    "info": "Every 6 hours for 7 to 14 days"
+  }
+]
