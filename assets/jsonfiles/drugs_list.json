@@ -4,7 +4,7 @@
     "type": "weight",
     "factor": "0.5",
     "info": "every 6 hours",
-    "unit": "mg"
+    "unit": "cc"
   },
   {
     "name": "Ibuprofen",
@@ -18,161 +18,161 @@
     "type": "weight",
     "factor": "0.8",
     "info": "every 8 hours",
-    "unit": "mg"
+    "unit": "cc"
   },
   {
     "name": "Ampicillin 250",
     "type": "weight",
     "factor": "0.4",
     "info": "every 8 hours",
-    "unit": "mg"
+    "unit": "cc"
   },
   {
     "name": "Amoxicillin 125",
     "type": "weight",
     "factor": "0.4",
     "info": "every 8 hours",
-    "unit": "mg"
+    "unit": "cc"
   },
   {
     "name": "Amoxicillin 250",
     "type": "weight",
     "factor": "0.2",
     "info": "every 8 hours",
-    "unit": "mg"
+    "unit": "cc"
   },
   {
     "name": "Co-amoxiclav 156",
     "type": "weight",
     "factor": "0.5",
     "info": "every 8 hours",
-    "unit": "mg"
+    "unit": "cc"
   },
   {
     "name": "Co-amoxiclav 228",
     "type": "weight",
     "factor": "0.5",
     "info": "every 12 hours",
-    "unit": "mg"
+    "unit": "cc"
   },
   {
     "name": "Co-amoxiclav 312",
     "type": "weight",
     "factor": "0.25",
     "info": "every 8 hours",
-    "unit": "mg"
+    "unit": "cc"
   },
   {
     "name": "Co-amoxiclav 457",
     "type": "weight",
     "factor": "0.25",
     "info": "every 12 hours",
-    "unit": "mg"
+    "unit": "cc"
   },
   {
     "name": "Cefixime",
     "type": "weight",
     "factor": "0.2",
     "info": "every 12 hours",
-    "unit": "mg"
+    "unit": "cc"
   },
   {
     "name": "Azithromycin 100",
     "type": "weight",
     "factor": "0.5",
     "info": "every 24 hours",
-    "unit": "mg"
+    "unit": "cc"
   },
   {
     "name": "Azithromycin 200",
     "type": "weight",
     "factor": "0.25",
     "info": "every 24 hours",
-    "unit": "mg"
+    "unit": "cc"
   },
   {
     "name": "Cotrimoxazole",
     "type": "weight",
     "factor": "0.5",
     "info": "every 12 hours",
-    "unit": "mg"
+    "unit": "cc"
   },
   {
     "name": "Metronidazole",
     "type": "weight",
     "factor": "0.33",
     "info": "every 8 hours",
-    "unit": "mg"
+    "unit": "cc"
   },
   {
     "name": "Diphenhydramine",
     "type": "weight",
     "factor": "0.6",
     "info": "every 8 hours",
-    "unit": "mg"
+    "unit": "cc"
   },
   {
     "name": "Hydroxyzine",
     "type": "weight",
     "factor": "0.33",
     "info": "every 8 hours",
-    "unit": "mg"
+    "unit": "cc"
   },
   {
     "name": "Loratadine, Dextromethorphan, Phenylephrine",
     "type": "weight",
     "factor": "0.5",
     "info": "every 12 hours",
-    "unit": "mg"
+    "unit": "cc"
   },
   {
     "name": "Ketotifen",
     "type": "weight",
     "factor": "0.25",
     "info": "every 12 hours",
-    "unit": "mg"
+    "unit": "cc"
   },
   {
     "name": "Pseudoephedrine",
     "type": "weight",
     "factor": "0.3",
     "info": "every 12 hours",
-    "unit": "mg"
+    "unit": "cc"
   },
   {
     "name": "Guaifenesin",
     "type": "weight",
     "factor": "0.2",
     "info": "every 8 hours",
-    "unit": "mg"
+    "unit": "cc"
   },
   {
     "name": "Theophylline G",
     "type": "weight",
     "factor": "0.7",
     "info": "every 8 hours",
-    "unit": "mg"
+    "unit": "cc"
   },
   {
     "name": "Metoclopramide",
     "type": "weight",
     "factor": "0.5",
     "info": "every 6 hours",
-    "unit": "mg"
+    "unit": "cc"
   },
   {
     "name": "Dimethicone",
     "type": "weight",
     "factor": "1",
     "info": "every 6-8 hours",
-    "unit": "mg"
+    "unit": "cc"
   },
   {
     "name": "Iron",
     "type": "weight",
     "factor": "1.5",
     "info": "every 24 hours",
-    "unit": "mg"
+    "unit": "cc"
   },
   {
     "name": "Acetaminophen drop",
@@ -180,6 +180,13 @@
     "factor": "2",
     "info": "every 6 hours",
     "unit": "drop"
+  },
+  {
+    "name": "PEG 3350",
+    "type": "weight",
+    "factor": "2",
+    "info": "every 6 hours",
+    "unit": "cc"
   },
   {
     "name": "Bromohexine",
@@ -208,6 +215,7 @@
   {
     "name": "zink syrup for diarrhea",
     "type": "range_age",
+    "unit": "CC",
     "ranges": [
       {
         "min": 0,
@@ -224,6 +232,7 @@
   {
     "name": "zink syrup as supplement",
     "type": "range_age",
+    "unit": "CC",
     "ranges": [
       {
         "min": 1,
@@ -245,6 +254,7 @@
   {
     "name": "omeprazole",
     "type": "range_weight",
+    "unit": "mg",
     "ranges": [
       {
         "min": 0,
@@ -265,6 +275,23 @@
         "min": 21,
         "max": 9999,
         "info": "5 cc 3 times per day or more"
+      }
+    ]
+  },
+  {
+    "name": "fexofenadin",
+    "type": "range_weight",
+    "unit": "mg",
+    "ranges": [
+      {
+        "min": 0,
+        "max": 10,
+        "info": "15 mg once per day"
+      },
+      {
+        "min": 11,
+        "max": 9999,
+        "info": "30 mg twice per day"
       }
     ]
   }
